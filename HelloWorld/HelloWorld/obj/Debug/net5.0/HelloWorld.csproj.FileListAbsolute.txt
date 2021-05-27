@@ -1,0 +1,16 @@
+/home/ynot/RiderProjects/CSharpPractice/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld
+/home/ynot/RiderProjects/CSharpPractice/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld.deps.json
+/home/ynot/RiderProjects/CSharpPractice/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.json
+/home/ynot/RiderProjects/CSharpPractice/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.dev.json
+/home/ynot/RiderProjects/CSharpPractice/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld.dll
+/home/ynot/RiderProjects/CSharpPractice/HelloWorld/HelloWorld/bin/Debug/net5.0/ref/HelloWorld.dll
+/home/ynot/RiderProjects/CSharpPractice/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld.pdb
+/home/ynot/RiderProjects/CSharpPractice/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.csprojAssemblyReference.cache
+/home/ynot/RiderProjects/CSharpPractice/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/ynot/RiderProjects/CSharpPractice/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfoInputs.cache
+/home/ynot/RiderProjects/CSharpPractice/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfo.cs
+/home/ynot/RiderProjects/CSharpPractice/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/ynot/RiderProjects/CSharpPractice/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.dll
+/home/ynot/RiderProjects/CSharpPractice/HelloWorld/HelloWorld/obj/Debug/net5.0/ref/HelloWorld.dll
+/home/ynot/RiderProjects/CSharpPractice/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.pdb
+/home/ynot/RiderProjects/CSharpPractice/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.genruntimeconfig.cache

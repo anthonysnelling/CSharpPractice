@@ -1,0 +1,16 @@
+/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/ModulusOrRemaider/ModulusOrRemaider/bin/Debug/net5.0/ModulusOrRemaider
+/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/ModulusOrRemaider/ModulusOrRemaider/bin/Debug/net5.0/ModulusOrRemaider.deps.json
+/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/ModulusOrRemaider/ModulusOrRemaider/bin/Debug/net5.0/ModulusOrRemaider.runtimeconfig.json
+/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/ModulusOrRemaider/ModulusOrRemaider/bin/Debug/net5.0/ModulusOrRemaider.runtimeconfig.dev.json
+/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/ModulusOrRemaider/ModulusOrRemaider/bin/Debug/net5.0/ModulusOrRemaider.dll
+/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/ModulusOrRemaider/ModulusOrRemaider/bin/Debug/net5.0/ref/ModulusOrRemaider.dll
+/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/ModulusOrRemaider/ModulusOrRemaider/bin/Debug/net5.0/ModulusOrRemaider.pdb
+/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/ModulusOrRemaider/ModulusOrRemaider/obj/Debug/net5.0/ModulusOrRemaider.csproj.AssemblyReference.cache
+/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/ModulusOrRemaider/ModulusOrRemaider/obj/Debug/net5.0/ModulusOrRemaider.GeneratedMSBuildEditorConfig.editorconfig
+/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/ModulusOrRemaider/ModulusOrRemaider/obj/Debug/net5.0/ModulusOrRemaider.AssemblyInfoInputs.cache
+/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/ModulusOrRemaider/ModulusOrRemaider/obj/Debug/net5.0/ModulusOrRemaider.AssemblyInfo.cs
+/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/ModulusOrRemaider/ModulusOrRemaider/obj/Debug/net5.0/ModulusOrRemaider.csproj.CoreCompileInputs.cache
+/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/ModulusOrRemaider/ModulusOrRemaider/obj/Debug/net5.0/ModulusOrRemaider.dll
+/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/ModulusOrRemaider/ModulusOrRemaider/obj/Debug/net5.0/ref/ModulusOrRemaider.dll
+/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/ModulusOrRemaider/ModulusOrRemaider/obj/Debug/net5.0/ModulusOrRemaider.pdb
+/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/ModulusOrRemaider/ModulusOrRemaider/obj/Debug/net5.0/ModulusOrRemaider.genruntimeconfig.cache

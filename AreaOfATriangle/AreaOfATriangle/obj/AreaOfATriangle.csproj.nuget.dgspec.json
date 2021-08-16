@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/HelloWorld/HelloWorld/HelloWorld.csproj": {}
+    "/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/AreaOfATriangle/AreaOfATriangle/AreaOfATriangle.csproj": {}
   },
   "projects": {
-    "/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/HelloWorld/HelloWorld/HelloWorld.csproj": {
+    "/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/AreaOfATriangle/AreaOfATriangle/AreaOfATriangle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/HelloWorld/HelloWorld/HelloWorld.csproj",
-        "projectName": "HelloWorld",
-        "projectPath": "/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/HelloWorld/HelloWorld/HelloWorld.csproj",
+        "projectUniqueName": "/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/AreaOfATriangle/AreaOfATriangle/AreaOfATriangle.csproj",
+        "projectName": "AreaOfATriangle",
+        "projectPath": "/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/AreaOfATriangle/AreaOfATriangle/AreaOfATriangle.csproj",
         "packagesPath": "/home/anthonysnelling/.nuget/packages/",
-        "outputPath": "/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/HelloWorld/HelloWorld/obj/",
+        "outputPath": "/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/AreaOfATriangle/AreaOfATriangle/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/anthonysnelling/.nuget/NuGet/NuGet.Config"

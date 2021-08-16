@@ -1,0 +1,16 @@
+/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/AreaOfATriangle/AreaOfATriangle/bin/Debug/net5.0/AreaOfATriangle
+/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/AreaOfATriangle/AreaOfATriangle/bin/Debug/net5.0/AreaOfATriangle.deps.json
+/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/AreaOfATriangle/AreaOfATriangle/bin/Debug/net5.0/AreaOfATriangle.runtimeconfig.json
+/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/AreaOfATriangle/AreaOfATriangle/bin/Debug/net5.0/AreaOfATriangle.runtimeconfig.dev.json
+/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/AreaOfATriangle/AreaOfATriangle/bin/Debug/net5.0/AreaOfATriangle.dll
+/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/AreaOfATriangle/AreaOfATriangle/bin/Debug/net5.0/ref/AreaOfATriangle.dll
+/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/AreaOfATriangle/AreaOfATriangle/bin/Debug/net5.0/AreaOfATriangle.pdb
+/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/AreaOfATriangle/AreaOfATriangle/obj/Debug/net5.0/AreaOfATriangle.csproj.AssemblyReference.cache
+/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/AreaOfATriangle/AreaOfATriangle/obj/Debug/net5.0/AreaOfATriangle.GeneratedMSBuildEditorConfig.editorconfig
+/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/AreaOfATriangle/AreaOfATriangle/obj/Debug/net5.0/AreaOfATriangle.AssemblyInfoInputs.cache
+/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/AreaOfATriangle/AreaOfATriangle/obj/Debug/net5.0/AreaOfATriangle.AssemblyInfo.cs
+/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/AreaOfATriangle/AreaOfATriangle/obj/Debug/net5.0/AreaOfATriangle.csproj.CoreCompileInputs.cache
+/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/AreaOfATriangle/AreaOfATriangle/obj/Debug/net5.0/AreaOfATriangle.dll
+/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/AreaOfATriangle/AreaOfATriangle/obj/Debug/net5.0/ref/AreaOfATriangle.dll
+/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/AreaOfATriangle/AreaOfATriangle/obj/Debug/net5.0/AreaOfATriangle.pdb
+/home/anthonysnelling/Documents/programmingProjects/CSharpPractice/AreaOfATriangle/AreaOfATriangle/obj/Debug/net5.0/AreaOfATriangle.genruntimeconfig.cache

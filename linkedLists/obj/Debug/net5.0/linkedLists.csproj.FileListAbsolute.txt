@@ -1,0 +1,16 @@
+/home/ynot/Documents/ProgrammingProjects/cSharp/CSharpPractice/linkedLists/bin/Debug/net5.0/linkedLists
+/home/ynot/Documents/ProgrammingProjects/cSharp/CSharpPractice/linkedLists/bin/Debug/net5.0/linkedLists.deps.json
+/home/ynot/Documents/ProgrammingProjects/cSharp/CSharpPractice/linkedLists/bin/Debug/net5.0/linkedLists.runtimeconfig.json
+/home/ynot/Documents/ProgrammingProjects/cSharp/CSharpPractice/linkedLists/bin/Debug/net5.0/linkedLists.runtimeconfig.dev.json
+/home/ynot/Documents/ProgrammingProjects/cSharp/CSharpPractice/linkedLists/bin/Debug/net5.0/linkedLists.dll
+/home/ynot/Documents/ProgrammingProjects/cSharp/CSharpPractice/linkedLists/bin/Debug/net5.0/ref/linkedLists.dll
+/home/ynot/Documents/ProgrammingProjects/cSharp/CSharpPractice/linkedLists/bin/Debug/net5.0/linkedLists.pdb
+/home/ynot/Documents/ProgrammingProjects/cSharp/CSharpPractice/linkedLists/obj/Debug/net5.0/linkedLists.csproj.AssemblyReference.cache
+/home/ynot/Documents/ProgrammingProjects/cSharp/CSharpPractice/linkedLists/obj/Debug/net5.0/linkedLists.GeneratedMSBuildEditorConfig.editorconfig
+/home/ynot/Documents/ProgrammingProjects/cSharp/CSharpPractice/linkedLists/obj/Debug/net5.0/linkedLists.AssemblyInfoInputs.cache
+/home/ynot/Documents/ProgrammingProjects/cSharp/CSharpPractice/linkedLists/obj/Debug/net5.0/linkedLists.AssemblyInfo.cs
+/home/ynot/Documents/ProgrammingProjects/cSharp/CSharpPractice/linkedLists/obj/Debug/net5.0/linkedLists.csproj.CoreCompileInputs.cache
+/home/ynot/Documents/ProgrammingProjects/cSharp/CSharpPractice/linkedLists/obj/Debug/net5.0/linkedLists.dll
+/home/ynot/Documents/ProgrammingProjects/cSharp/CSharpPractice/linkedLists/obj/Debug/net5.0/ref/linkedLists.dll
+/home/ynot/Documents/ProgrammingProjects/cSharp/CSharpPractice/linkedLists/obj/Debug/net5.0/linkedLists.pdb
+/home/ynot/Documents/ProgrammingProjects/cSharp/CSharpPractice/linkedLists/obj/Debug/net5.0/linkedLists.genruntimeconfig.cache

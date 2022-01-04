@@ -116,16 +116,20 @@ namespace HuntingTheManticore
             Console.Clear();
             // second player repeatedly attempts to destroy the manticore until city is destroyed.
             Console.WriteLine("Player 2 it is your turn, aim the cannon, find and destroy The Manticore!");
-            while (cityHealth > 0 || manticoreHealth > 0)
+            while (cityHealth > 0)
             {
                 GetStatus();
                 player2Turn();
+                if (manticoreHealth <= 0)
+                {
+                    break;
+                }
             }
 
             if (manticoreHealth <= 0)
             {
                 Console.WriteLine("The Manticore had been destroyed! The city has been saved!");
-            }else if (cityHealth == 0)
+            }else if (cityHealth <= 0)
             {
               Console.WriteLine("You failed... The city has fallen, The Manticore is victorious...");  
             } 

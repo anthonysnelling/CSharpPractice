@@ -1,0 +1,16 @@
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/HuntingTheManticore/HuntingTheManticore/bin/Debug/net5.0/HuntingTheManticore
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/HuntingTheManticore/HuntingTheManticore/bin/Debug/net5.0/HuntingTheManticore.deps.json
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/HuntingTheManticore/HuntingTheManticore/bin/Debug/net5.0/HuntingTheManticore.runtimeconfig.json
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/HuntingTheManticore/HuntingTheManticore/bin/Debug/net5.0/HuntingTheManticore.runtimeconfig.dev.json
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/HuntingTheManticore/HuntingTheManticore/bin/Debug/net5.0/HuntingTheManticore.dll
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/HuntingTheManticore/HuntingTheManticore/bin/Debug/net5.0/ref/HuntingTheManticore.dll
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/HuntingTheManticore/HuntingTheManticore/bin/Debug/net5.0/HuntingTheManticore.pdb
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/HuntingTheManticore/HuntingTheManticore/obj/Debug/net5.0/HuntingTheManticore.csproj.AssemblyReference.cache
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/HuntingTheManticore/HuntingTheManticore/obj/Debug/net5.0/HuntingTheManticore.GeneratedMSBuildEditorConfig.editorconfig
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/HuntingTheManticore/HuntingTheManticore/obj/Debug/net5.0/HuntingTheManticore.AssemblyInfoInputs.cache
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/HuntingTheManticore/HuntingTheManticore/obj/Debug/net5.0/HuntingTheManticore.AssemblyInfo.cs
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/HuntingTheManticore/HuntingTheManticore/obj/Debug/net5.0/HuntingTheManticore.csproj.CoreCompileInputs.cache
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/HuntingTheManticore/HuntingTheManticore/obj/Debug/net5.0/HuntingTheManticore.dll
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/HuntingTheManticore/HuntingTheManticore/obj/Debug/net5.0/ref/HuntingTheManticore.dll
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/HuntingTheManticore/HuntingTheManticore/obj/Debug/net5.0/HuntingTheManticore.pdb
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/HuntingTheManticore/HuntingTheManticore/obj/Debug/net5.0/HuntingTheManticore.genruntimeconfig.cache

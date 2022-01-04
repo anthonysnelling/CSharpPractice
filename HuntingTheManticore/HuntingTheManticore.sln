@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuntingTheManticore", "HuntingTheManticore\HuntingTheManticore.csproj", "{F91D3265-BEA3-4DD7-8C7E-6C18E238B93E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F91D3265-BEA3-4DD7-8C7E-6C18E238B93E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F91D3265-BEA3-4DD7-8C7E-6C18E238B93E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F91D3265-BEA3-4DD7-8C7E-6C18E238B93E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F91D3265-BEA3-4DD7-8C7E-6C18E238B93E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

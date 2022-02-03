@@ -1,0 +1,16 @@
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Enums/Enums/Enums/bin/Debug/net5.0/Enums
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Enums/Enums/Enums/bin/Debug/net5.0/Enums.deps.json
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Enums/Enums/Enums/bin/Debug/net5.0/Enums.runtimeconfig.json
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Enums/Enums/Enums/bin/Debug/net5.0/Enums.runtimeconfig.dev.json
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Enums/Enums/Enums/bin/Debug/net5.0/Enums.dll
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Enums/Enums/Enums/bin/Debug/net5.0/ref/Enums.dll
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Enums/Enums/Enums/bin/Debug/net5.0/Enums.pdb
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Enums/Enums/Enums/obj/Debug/net5.0/Enums.csproj.AssemblyReference.cache
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Enums/Enums/Enums/obj/Debug/net5.0/Enums.GeneratedMSBuildEditorConfig.editorconfig
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Enums/Enums/Enums/obj/Debug/net5.0/Enums.AssemblyInfoInputs.cache
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Enums/Enums/Enums/obj/Debug/net5.0/Enums.AssemblyInfo.cs
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Enums/Enums/Enums/obj/Debug/net5.0/Enums.csproj.CoreCompileInputs.cache
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Enums/Enums/Enums/obj/Debug/net5.0/Enums.dll
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Enums/Enums/Enums/obj/Debug/net5.0/ref/Enums.dll
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Enums/Enums/Enums/obj/Debug/net5.0/Enums.pdb
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Enums/Enums/Enums/obj/Debug/net5.0/Enums.genruntimeconfig.cache

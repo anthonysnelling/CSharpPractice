@@ -1,0 +1,16 @@
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/EnumAndTupleSoup/EnumAndTupleSoup/bin/Debug/net5.0/EnumAndTupleSoup
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/EnumAndTupleSoup/EnumAndTupleSoup/bin/Debug/net5.0/EnumAndTupleSoup.deps.json
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/EnumAndTupleSoup/EnumAndTupleSoup/bin/Debug/net5.0/EnumAndTupleSoup.runtimeconfig.json
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/EnumAndTupleSoup/EnumAndTupleSoup/bin/Debug/net5.0/EnumAndTupleSoup.runtimeconfig.dev.json
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/EnumAndTupleSoup/EnumAndTupleSoup/bin/Debug/net5.0/EnumAndTupleSoup.dll
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/EnumAndTupleSoup/EnumAndTupleSoup/bin/Debug/net5.0/ref/EnumAndTupleSoup.dll
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/EnumAndTupleSoup/EnumAndTupleSoup/bin/Debug/net5.0/EnumAndTupleSoup.pdb
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/EnumAndTupleSoup/EnumAndTupleSoup/obj/Debug/net5.0/EnumAndTupleSoup.csproj.AssemblyReference.cache
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/EnumAndTupleSoup/EnumAndTupleSoup/obj/Debug/net5.0/EnumAndTupleSoup.GeneratedMSBuildEditorConfig.editorconfig
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/EnumAndTupleSoup/EnumAndTupleSoup/obj/Debug/net5.0/EnumAndTupleSoup.AssemblyInfoInputs.cache
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/EnumAndTupleSoup/EnumAndTupleSoup/obj/Debug/net5.0/EnumAndTupleSoup.AssemblyInfo.cs
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/EnumAndTupleSoup/EnumAndTupleSoup/obj/Debug/net5.0/EnumAndTupleSoup.csproj.CoreCompileInputs.cache
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/EnumAndTupleSoup/EnumAndTupleSoup/obj/Debug/net5.0/EnumAndTupleSoup.dll
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/EnumAndTupleSoup/EnumAndTupleSoup/obj/Debug/net5.0/ref/EnumAndTupleSoup.dll
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/EnumAndTupleSoup/EnumAndTupleSoup/obj/Debug/net5.0/EnumAndTupleSoup.pdb
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/EnumAndTupleSoup/EnumAndTupleSoup/obj/Debug/net5.0/EnumAndTupleSoup.genruntimeconfig.cache

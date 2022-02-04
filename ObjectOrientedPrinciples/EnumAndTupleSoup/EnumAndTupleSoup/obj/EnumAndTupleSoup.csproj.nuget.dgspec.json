@@ -1,21 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Enums/Enums/Enums/Enums.csproj": {}
+    "/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/EnumAndTupleSoup/EnumAndTupleSoup/EnumAndTupleSoup.csproj": {}
   },
   "projects": {
-    "/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Enums/Enums/Enums/Enums.csproj": {
+    "/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/EnumAndTupleSoup/EnumAndTupleSoup/EnumAndTupleSoup.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Enums/Enums/Enums/Enums.csproj",
-        "projectName": "Enums",
-        "projectPath": "/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Enums/Enums/Enums/Enums.csproj",
+        "projectUniqueName": "/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/EnumAndTupleSoup/EnumAndTupleSoup/EnumAndTupleSoup.csproj",
+        "projectName": "EnumAndTupleSoup",
+        "projectPath": "/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/EnumAndTupleSoup/EnumAndTupleSoup/EnumAndTupleSoup.csproj",
         "packagesPath": "/home/anthonysnelling/.nuget/packages/",
-        "outputPath": "/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Enums/Enums/Enums/obj/",
+        "outputPath": "/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/EnumAndTupleSoup/EnumAndTupleSoup/obj/",
         "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/anthonysnelling/.nuget/NuGet/NuGet.Config"
+        ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",

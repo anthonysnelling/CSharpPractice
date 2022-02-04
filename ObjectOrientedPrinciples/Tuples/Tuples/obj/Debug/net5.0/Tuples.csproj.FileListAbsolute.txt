@@ -1,0 +1,16 @@
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Tuples/Tuples/bin/Debug/net5.0/Tuples
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Tuples/Tuples/bin/Debug/net5.0/Tuples.deps.json
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Tuples/Tuples/bin/Debug/net5.0/Tuples.runtimeconfig.json
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Tuples/Tuples/bin/Debug/net5.0/Tuples.runtimeconfig.dev.json
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Tuples/Tuples/bin/Debug/net5.0/Tuples.dll
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Tuples/Tuples/bin/Debug/net5.0/ref/Tuples.dll
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Tuples/Tuples/bin/Debug/net5.0/Tuples.pdb
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Tuples/Tuples/obj/Debug/net5.0/Tuples.csproj.AssemblyReference.cache
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Tuples/Tuples/obj/Debug/net5.0/Tuples.GeneratedMSBuildEditorConfig.editorconfig
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Tuples/Tuples/obj/Debug/net5.0/Tuples.AssemblyInfoInputs.cache
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Tuples/Tuples/obj/Debug/net5.0/Tuples.AssemblyInfo.cs
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Tuples/Tuples/obj/Debug/net5.0/Tuples.csproj.CoreCompileInputs.cache
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Tuples/Tuples/obj/Debug/net5.0/Tuples.dll
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Tuples/Tuples/obj/Debug/net5.0/ref/Tuples.dll
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Tuples/Tuples/obj/Debug/net5.0/Tuples.pdb
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Tuples/Tuples/obj/Debug/net5.0/Tuples.genruntimeconfig.cache

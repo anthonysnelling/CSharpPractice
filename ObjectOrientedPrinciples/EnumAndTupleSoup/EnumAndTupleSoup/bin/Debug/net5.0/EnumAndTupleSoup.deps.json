@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EnumAndTupleSoup/1.0.0": {
+        "runtime": {
+          "EnumAndTupleSoup.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EnumAndTupleSoup/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

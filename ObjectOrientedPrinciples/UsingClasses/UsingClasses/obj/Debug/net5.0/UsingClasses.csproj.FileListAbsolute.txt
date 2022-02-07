@@ -1,0 +1,16 @@
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/UsingClasses/UsingClasses/obj/Debug/net5.0/UsingClasses.csproj.AssemblyReference.cache
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/UsingClasses/UsingClasses/obj/Debug/net5.0/UsingClasses.GeneratedMSBuildEditorConfig.editorconfig
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/UsingClasses/UsingClasses/obj/Debug/net5.0/UsingClasses.AssemblyInfoInputs.cache
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/UsingClasses/UsingClasses/obj/Debug/net5.0/UsingClasses.AssemblyInfo.cs
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/UsingClasses/UsingClasses/obj/Debug/net5.0/UsingClasses.csproj.CoreCompileInputs.cache
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/UsingClasses/UsingClasses/bin/Debug/net5.0/UsingClasses
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/UsingClasses/UsingClasses/bin/Debug/net5.0/UsingClasses.deps.json
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/UsingClasses/UsingClasses/bin/Debug/net5.0/UsingClasses.runtimeconfig.json
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/UsingClasses/UsingClasses/bin/Debug/net5.0/UsingClasses.runtimeconfig.dev.json
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/UsingClasses/UsingClasses/bin/Debug/net5.0/UsingClasses.dll
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/UsingClasses/UsingClasses/bin/Debug/net5.0/ref/UsingClasses.dll
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/UsingClasses/UsingClasses/bin/Debug/net5.0/UsingClasses.pdb
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/UsingClasses/UsingClasses/obj/Debug/net5.0/UsingClasses.dll
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/UsingClasses/UsingClasses/obj/Debug/net5.0/ref/UsingClasses.dll
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/UsingClasses/UsingClasses/obj/Debug/net5.0/UsingClasses.pdb
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/UsingClasses/UsingClasses/obj/Debug/net5.0/UsingClasses.genruntimeconfig.cache

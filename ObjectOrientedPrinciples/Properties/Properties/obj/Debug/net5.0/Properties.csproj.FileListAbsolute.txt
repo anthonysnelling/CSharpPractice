@@ -1,0 +1,16 @@
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Properties/Properties/bin/Debug/net5.0/Properties
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Properties/Properties/bin/Debug/net5.0/Properties.deps.json
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Properties/Properties/bin/Debug/net5.0/Properties.runtimeconfig.json
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Properties/Properties/bin/Debug/net5.0/Properties.runtimeconfig.dev.json
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Properties/Properties/bin/Debug/net5.0/Properties.dll
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Properties/Properties/bin/Debug/net5.0/ref/Properties.dll
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Properties/Properties/bin/Debug/net5.0/Properties.pdb
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Properties/Properties/obj/Debug/net5.0/Properties.csproj.AssemblyReference.cache
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Properties/Properties/obj/Debug/net5.0/Properties.GeneratedMSBuildEditorConfig.editorconfig
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Properties/Properties/obj/Debug/net5.0/Properties.AssemblyInfoInputs.cache
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Properties/Properties/obj/Debug/net5.0/Properties.AssemblyInfo.cs
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Properties/Properties/obj/Debug/net5.0/Properties.csproj.CoreCompileInputs.cache
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Properties/Properties/obj/Debug/net5.0/Properties.dll
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Properties/Properties/obj/Debug/net5.0/ref/Properties.dll
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Properties/Properties/obj/Debug/net5.0/Properties.pdb
+/home/anthonysnelling/Documents/programmingProjects/cSharp/CSharpPractice/ObjectOrientedPrinciples/Properties/Properties/obj/Debug/net5.0/Properties.genruntimeconfig.cache
